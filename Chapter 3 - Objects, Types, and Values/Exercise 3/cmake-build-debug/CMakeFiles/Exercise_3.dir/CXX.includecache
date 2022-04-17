@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chahine/Desktop/ADAPTIVEFORT/C++/Programming Principles and Practice Using C++/PPP2-GitHubRepo/Chapter 3 - Objects, Types, and Values/Exercise 3/main.cpp
+iostream
+-
+
