@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int val[3];
-    cout << "Enter three values (separated by a space) to get them sorted: ";
-    while (cin >> val[0] && cin >> val[1] && cin >> val[2])
+    int val;
+    cout << "Enter a value to determine if its odd or even: ";
+    while (cin >> val)
     {
-        cout << "Before sorting.. " << val[0] << ", " << val[1] << ", " << val[2] << endl;
-        sort(begin(val), end(val));
-        cout << "After sorting.. " << val[0] << ", " << val[1] << ", " << val[2] << endl;
+        if (val % 2 == 0 ) cout << "This value.. " << val << " is even!" << endl;
+        if (val % 2 == 1 ) cout << "This value.. " << val << " is odd!" << endl;
+
     }
     return 0;
 }
