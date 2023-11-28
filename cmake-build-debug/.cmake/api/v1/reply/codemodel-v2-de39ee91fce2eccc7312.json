@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PPP2_GitHubRepo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PPP2_GitHubRepo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PPP2_GitHubRepo-Debug-5127225196e634dc325c.json",
+					"name" : "PPP2_GitHubRepo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/chahine/Library/Mobile Documents/com~apple~CloudDocs/Desktop/ADAPTIVEFORT - 27 Nov, 2023/C++/Programming Principles and Practice Using C++/PPP2-GitHubRepo/cmake-build-debug",
+		"source" : "/Users/chahine/Library/Mobile Documents/com~apple~CloudDocs/Desktop/ADAPTIVEFORT - 27 Nov, 2023/C++/Programming Principles and Practice Using C++/PPP2-GitHubRepo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
